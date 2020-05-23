@@ -62,4 +62,4 @@ _scrollView.state = XSScrollViewStateEmpty;
 
 1. [`DZNEmptyDataSet`](https://github.com/dzenbot/DZNEmptyDataSet)
 2. [`LYEmptyView`](https://github.com/dev-liyang/LYEmptyView)
-
+3. [`屏幕旋转.pdf`](./屏幕旋转.pdf)
